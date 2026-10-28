@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 🔭 &nbsp;I'm currently working on **on building a strong fondamentals in my fiels**  
-🌱 &nbsp;I'm currently learning **Python**
+🌱 &nbsp;I'm currently learning **Python & web developpement**
 
 ### 🛠️ Tech Stack
 
